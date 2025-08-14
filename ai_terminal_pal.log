@@ -1,0 +1,248 @@
+2025-07-20 21:00:00,026 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_config'
+2025-07-20 21:00:00,042 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4268, in main
+    app.run()
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:09:12,949 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_config'
+2025-07-20 21:09:12,952 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4268, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:23:59,247 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_config'
+2025-07-20 21:23:59,250 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4268, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:24:10,328 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_config'
+2025-07-20 21:24:10,334 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4268, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:29:01,580 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_provider'
+2025-07-20 21:29:01,580 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4274, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+  File "C:\Users\priya\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 37, in run
+    raise ValueError("a coroutine was expected, got {!r}".format(main))
+ValueError: a coroutine was expected, got None
+2025-07-20 21:29:25,626 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_model'
+2025-07-20 21:29:25,626 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4277, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+  File "C:\Users\priya\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 37, in run
+    raise ValueError("a coroutine was expected, got {!r}".format(main))
+ValueError: a coroutine was expected, got None
+2025-07-20 21:29:49,087 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_theme'
+2025-07-20 21:29:49,090 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4280, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+  File "C:\Users\priya\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 37, in run
+    raise ValueError("a coroutine was expected, got {!r}".format(main))
+ValueError: a coroutine was expected, got None
+2025-07-20 21:30:08,149 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_reset'
+2025-07-20 21:30:08,155 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4283, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+  File "C:\Users\priya\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 37, in run
+    raise ValueError("a coroutine was expected, got {!r}".format(main))
+ValueError: a coroutine was expected, got None
+2025-07-20 21:34:39,599 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_help'
+2025-07-20 21:34:39,599 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4314, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:37:04,357 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_nav'
+2025-07-20 21:37:04,366 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4483, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:38:17,106 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_quick'
+2025-07-20 21:38:17,113 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4513, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:39:29,534 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_quick'
+2025-07-20 21:39:29,537 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4513, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:40:21,185 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_explain'
+2025-07-20 21:40:21,190 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4561, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:41:32,923 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_attach'
+2025-07-20 21:41:32,929 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4605, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:42:04,685 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_read'
+2025-07-20 21:42:04,685 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4604, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:42:43,580 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_analyze'
+2025-07-20 21:42:43,580 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4605, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:44:20,330 - AITerminalPal - INFO - AI Terminal Pal v2.0 initialized successfully
+2025-07-20 21:44:20,330 - AITerminalPal - ERROR - Startup error details
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 4605, in main
+    asyncio.run(app.run())  # ADD asyncio.run() here
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-07-20 21:46:42,377 - AITerminalPal - INFO - AI Terminal Pal v2.0 initialized successfully
+2025-07-20 21:47:49,775 - AITerminalPal - INFO - AI Terminal Pal v2.0 initialized successfully
+2025-07-20 21:49:57,215 - AITerminalPal - INFO - AI Terminal Pal v2.0 initialized successfully
+2025-07-20 21:51:40,610 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_help'
+2025-07-20 21:54:52,672 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_help'
+2025-07-20 22:01:59,458 - AITerminalPal - ERROR - Initialization error: 'AITerminalPal' object has no attribute 'cmd_help'
+2025-07-21 11:43:08,169 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'customize_interface'
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 2047, in main
+    app = AITerminalPal()
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 588, in __init__
+    self.register_enhanced_commands()
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 741, in register_enhanced_commands
+    '/customize': self.customize_interface,
+AttributeError: 'AITerminalPal' object has no attribute 'customize_interface'
+2025-07-21 11:56:41,940 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'customize_interface'
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 3846, in main
+    app = AITerminalPal()
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 588, in __init__
+    self.register_enhanced_commands()
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 741, in register_enhanced_commands
+    '/customize': self.customize_interface,
+AttributeError: 'AITerminalPal' object has no attribute 'customize_interface'
+2025-07-21 11:57:24,766 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'customize_interface'
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 3846, in main
+    app = AITerminalPal()
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 588, in __init__
+    self.register_enhanced_commands()
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 741, in register_enhanced_commands
+    '/customize': self.customize_interface,
+AttributeError: 'AITerminalPal' object has no attribute 'customize_interface'
+2025-07-21 12:04:22,900 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'customize_interface'
+Traceback (most recent call last):
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 1564, in main
+    app = AITerminalPal()
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 588, in __init__
+    self.register_enhanced_commands()
+  File "c:\Users\priya\My files\Studies\VS Code\Python\ai_chat_assistant.py", line 741, in register_enhanced_commands
+    '/customize': self.customize_interface,
+AttributeError: 'AITerminalPal' object has no attribute 'customize_interface'
+2025-08-11 21:32:15,362 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'register_enhanced_commands'
+Traceback (most recent call last):
+  File "C:\Users\priya\My files\Studies\VS Code\Python\ai_terminal_pal.py", line 1850, in main
+    app = AITerminalPal()
+  File "C:\Users\priya\My files\Studies\VS Code\Python\ai_terminal_pal.py", line 586, in __init__
+    self.register_enhanced_commands()
+AttributeError: 'AITerminalPal' object has no attribute 'register_enhanced_commands'
+2025-08-11 22:05:05,944 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'register_enhanced_commands'
+Traceback (most recent call last):
+  File "C:\Users\priya\My files\Studies\VS Code\Python\ai_terminal_pal.py", line 1856, in main
+    app = AITerminalPal()
+  File "C:\Users\priya\My files\Studies\VS Code\Python\ai_terminal_pal.py", line 588, in __init__
+    self.register_enhanced_commands()
+AttributeError: 'AITerminalPal' object has no attribute 'register_enhanced_commands'
+2025-08-11 22:06:50,755 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'register_commands'
+Traceback (most recent call last):
+  File "C:\Users\priya\My files\Studies\VS Code\Python\ai_terminal_pal.py", line 1856, in main
+    app = AITerminalPal()
+  File "C:\Users\priya\My files\Studies\VS Code\Python\ai_terminal_pal.py", line 588, in __init__
+    self.register_commands()
+AttributeError: 'AITerminalPal' object has no attribute 'register_commands'
+2025-08-11 22:06:54,392 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'register_commands'
+Traceback (most recent call last):
+  File "C:\Users\priya\My files\Studies\VS Code\Python\ai_terminal_pal.py", line 1856, in main
+    app = AITerminalPal()
+  File "C:\Users\priya\My files\Studies\VS Code\Python\ai_terminal_pal.py", line 588, in __init__
+    self.register_commands()
+AttributeError: 'AITerminalPal' object has no attribute 'register_commands'
+2025-08-11 22:08:37,314 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'run'
+Traceback (most recent call last):
+  File "C:\Users\priya\My files\Studies\VS Code\Python\ai_terminal_pal.py", line 1926, in main
+    app.run()
+AttributeError: 'AITerminalPal' object has no attribute 'run'
+2025-08-14 05:29:58,723 - AITerminalPal - ERROR - Auto-save failed: Object of type datetime is not JSON serializable
+2025-08-14 05:30:39,027 - AITerminalPal - ERROR - Auto-save failed: Object of type datetime is not JSON serializable
+2025-08-14 05:34:16,192 - AITerminalPal - ERROR - Command error: asyncio.run() cannot be called from a running event loop
+Traceback (most recent call last):
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 2512, in process_command
+    self.commands[command](args)
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 2117, in lint_code
+    asyncio.run(self.analyze_lint_with_ai(lint_results, target))
+  File "C:\Users\priya\AppData\Local\Programs\Python\Python310\lib\asyncio\runners.py", line 33, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+2025-08-14 05:40:23,445 - AITerminalPal - ERROR - Command error: 'AITerminalPal' object has no attribute 'run_pylint'
+Traceback (most recent call last):
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 2217, in process_command
+    self.commands[command](args)
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 2095, in lint_code
+    lint_results['pylint'] = self.run_pylint(target)
+AttributeError: 'AITerminalPal' object has no attribute 'run_pylint'
+2025-08-14 05:46:01,726 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'explain_with_ai'
+Traceback (most recent call last):
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 2935, in main
+    app = AITerminalPal()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 653, in __init__
+    self.register_enhanced_commands()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 817, in register_enhanced_commands
+    '/explain': self.explain_with_ai,
+AttributeError: 'AITerminalPal' object has no attribute 'explain_with_ai'. Did you mean: 'edit_with_ai'?
+2025-08-14 06:14:17,378 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'generate_code'
+Traceback (most recent call last):
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 4613, in main
+    app = AITerminalPal()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 653, in __init__
+    self.register_enhanced_commands()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 818, in register_enhanced_commands
+    '/generate': self.generate_code,
+AttributeError: 'AITerminalPal' object has no attribute 'generate_code'
+2025-08-14 06:19:13,838 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'improve_code'
+Traceback (most recent call last):
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 4613, in main
+    app = AITerminalPal()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 653, in __init__
+    self.register_enhanced_commands()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 819, in register_enhanced_commands
+    '/improve': self.improve_code,
+AttributeError: 'AITerminalPal' object has no attribute 'improve_code'
+2025-08-14 06:21:05,621 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'improve_code'
+Traceback (most recent call last):
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 4604, in main
+    app = AITerminalPal()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 653, in __init__
+    self.register_enhanced_commands()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 819, in register_enhanced_commands
+    '/improve': self.improve_code,
+AttributeError: 'AITerminalPal' object has no attribute 'improve_code'
+2025-08-14 06:21:28,970 - AITerminalPal - ERROR - Startup error: 'AITerminalPal' object has no attribute 'scan_project'
+Traceback (most recent call last):
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 3989, in main
+    app = AITerminalPal()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 653, in __init__
+    self.register_enhanced_commands()
+  File "C:\Users\priya\My_files\Studies\VS Code\Python\ai_terminal_pal.py", line 834, in register_enhanced_commands
+    '/scan': self.scan_project,
+AttributeError: 'AITerminalPal' object has no attribute 'scan_project'. Did you mean: 'search_project'?
