@@ -163,43 +163,8 @@ This project is licensed under the MIT License.
 ---
 
 ## 🙌 Credits
-This project is crafted with passion by *MeshMinds*. We are deeply grateful to our core contributors who poured their expertise and dedication into building UltraCodeAI from the ground up.
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vishnupriyanpr">
-        <img src="https://github.com/vishnupriyanpr.png?size=120" width="120px;" alt="Vishnupriyan P R"/>
-        <br />
-        <sub><b>Vishnupriyan P R</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sanjit-123">
-        <img src="https://github.com/Sanjit-123.png?size=120" width="120px;" alt="Sanjit M"/>
-        <br />
-        <sub><b>Sanjit M</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Vivek-The-Creator">
-        <img src="https://github.com/Vivek-The-Creator.png?size=120" width="120px;" alt="Vivek K K"/>
-        <br />
-        <sub><b>Vivek K K</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Akshaya1215">
-        <img src="https://github.com/Akshaya1215.png?size=120" width="120px;" alt="Akshaya K"/>
-        <br />
-        <sub><b>Akshaya K</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 Crafted using Python's finest: `Rich`, `Pyperclip`, `Pillow`, `tiktoken`, `ReportLab`, and others.
 
-> “Tools should disappear into the background and let you build.”  
-> — MeshMinds, caffeinated coder ☕
+> “Thoughts are strong enough to manifest tech to tactics”  
+> — Vishnupriyan P R, caffeinated coder ☕
